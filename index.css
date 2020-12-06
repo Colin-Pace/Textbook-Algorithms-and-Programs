@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+}
+
+body {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  line-height: 30px;
+  font-family: arial, sans-serif;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: black;
+}
